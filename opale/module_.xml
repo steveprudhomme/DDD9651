@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ue xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:ueM>
+			<sp:title>Blogue de type journal de bord réflexif</sp:title>
+			<sp:sTitle>Blogue réflexif</sp:sTitle>
+			<sp:info>
+				<op:info>
+					<sp:keywds>
+						<op:keywds>
+							<sp:keywd>Blogue</sp:keywd>
+							<sp:keywd>Réflexif</sp:keywd>
+							<sp:keywd>Journal de bord</sp:keywd>
+						</op:keywds>
+					</sp:keywds>
+					<sp:cc>by-nc-sa</sp:cc>
+					<sp:ccVersion>4.0</sp:ccVersion>
+					<sp:cpyrgt>
+						<op:sPara>
+							<sc:para xml:space="preserve">Steve Prud'Homme</sc:para>
+						</op:sPara>
+					</sp:cpyrgt>
+				</op:info>
+			</sp:info>
+		</op:ueM>
+		<sp:obj>
+			<op:sTxt>
+				<sc:para xml:space="preserve">Créer et à alimenter régulièrement un journal de bord réflexif en ligne en utilisant la plateforme « Blogger »</sc:para>
+			</op:sTxt>
+		</sp:obj>
+		<sp:intro>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Ce travail consiste à créer et à alimenter régulièrement un journal de bord réflexif en ligne en utilisant la plateforme « Blogger ». Ce cybercarnet (d'au moins 5 billets) permet d'actualiser un apport essentiel des TIC, tant pour les élèves que pour l'enseignant. La verbalisation des idées sous forme de textes, de capsules audio et vidéo, leur explication et la constitution de traces favorisant un retour réflexif sur les apprentissages constituent une valeur ajoutée importante de l'utilisation des TIC en éducation. Il permet aussi l'interaction entre les apprenants (5 commentaires argumentés et appuyés), donc une construction collective de ses connaissances. Il s'agit d'un travail individuel réalisé en contexte collectif.</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:intro>
+		<sp:courseUa sc:refUri="/creerunblogueavecblogger.xml"/>
+	</op:ue>
+</sc:item>

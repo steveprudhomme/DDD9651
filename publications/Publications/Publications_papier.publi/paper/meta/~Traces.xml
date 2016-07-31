@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<trace><start t="31/07/16 11:52:59"/><l t="Error" d="31/07/16 11:53:00"><message type="Error" thread="chain-executor-2" ts="1469980380869" desc="[transform] Echec à la transformation
+[transform]  Src='C:\Users\Steve Prud'Homme\Dropbox\PROJETS\UQAM\DDD9651-Formation-a-l-enseignement-universitaire-D-marrage-du-blogue-r-flexif-sc-narisation\publications\Publications\Publications_papier.publi\paper\Publications_papier.odt'
+[transform]  Dst='C:\Users\Steve Prud'Homme\Dropbox\PROJETS\UQAM\DDD9651-Formation-a-l-enseignement-universitaire-D-marrage-du-blogue-r-flexif-sc-narisation\publications\Publications\Publications_papier.publi\paper\Publications_papier.odt'
+[transform]  params='transform=odtUpdate&amp;processings=keepEnumTitle:'
+[transform] java.lang.NullPointerException"/></l><l t="Warning" d="31/07/16 11:53:00"><message type="Warning" thread="chain-executor-2" ts="1469980380869" desc="Echec à la transformation
+ Src='C:\Users\Steve Prud'Homme\Dropbox\PROJETS\UQAM\DDD9651-Formation-a-l-enseignement-universitaire-D-marrage-du-blogue-r-flexif-sc-narisation\publications\Publications\Publications_papier.publi\paper\Publications_papier.odt'
+ Dst='C:\Users\Steve Prud'Homme\Dropbox\PROJETS\UQAM\DDD9651-Formation-a-l-enseignement-universitaire-D-marrage-du-blogue-r-flexif-sc-narisation\publications\Publications\Publications_papier.publi\paper\Publications_papier.odt'
+ params='transform=odtUpdate&amp;processings=keepEnumTitle:'"><message type="Error" thread="chain-executor-2" ts="1469980380869" desc="Echec à la transformation d'une ressource (OpenDocument)."><message type="Error" thread="chain-executor-2" ts="1469980380868" desc="OpenDocument editor not found."><message type="Exception" thread="chain-executor-2" ts="1469980380868"><details>java.lang.NullPointerException
+	at java.io.File.&lt;init&gt;(Unknown Source)
+	at eu.scenari.transform.od.TfmOpenDocument.getOoClassLoader(TfmOpenDocument.java:347)
+	at eu.scenari.transform.od.TfmOpenDocument.xGetSubTransformer(TfmOpenDocument.java:189)
+	at eu.scenari.transform.od.TfmOpenDocument.transform(TfmOpenDocument.java:138)
+	at com.scenari.m.co.ant.TransformTask.execute(TransformTask.java:96)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)
+	at sun.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+	at org.apache.tools.ant.Task.perform(Task.java:348)
+	at org.apache.tools.ant.Target.execute(Target.java:390)
+	at org.apache.tools.ant.Target.performTasks(Target.java:411)
+	at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1399)
+	at org.apache.tools.ant.Project.executeTarget(Project.java:1368)
+	at com.scenari.m.ge.generator.ant.AntGenerator.xGenerate(AntGenerator.java:440)
+	at com.scenari.m.ge.generator.base.GeneratorStatic.generate(GeneratorStatic.java:643)
+	at eu.scenari.wsp.module.gen.ThreadGen.run(ThreadGen.java:163)
+	at eu.scenari.core.universe.Universe$1.run(Universe.java:393)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+</details></message></message></message></message></l><end t="31/07/16 11:53:00"/></trace>

@@ -18,14 +18,159 @@
 							<op:txt>
 								<sc:para xml:space="preserve">Ouvrir votre navigateur internet.</sc:para>
 								<sc:para xml:space="preserve">Dans la barre d'adresse, saisir l'adresse : « <sc:phrase role="url"><op:urlM><sp:url>https://www.blogger.com</sp:url><sp:title>Google Blogger</sp:title></op:urlM>https://www.blogger.com</sc:phrase> »</sc:para>
-								<sc:para xml:space="preserve">Cliquer sur le bouton : «Créez votre blogue»</sc:para>
-								<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_blogue_bouton_creez_votre_blog.png"/></sc:para>
-								<sc:para xml:space="preserve">Cliquer sur le lien hypertexte : « Créer un compte »</sc:para>
-								<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_blogue_lien_creer_compte.png"/></sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : «Créez votre blogue»</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_blogue_bouton_creez_votre_blog.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le lien hypertexte : « Créer un compte »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_blogue_lien_creer_compte.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Inscrire votre : « Prénom » et : « Nom »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_nom_prenom.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+					</op:res>
+				</sp:meth>
+				<sp:warning>
+					<op:pbTi>
+						<sp:title>La saisie du futur nom d'utilisateur</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Inscrire le future nom d'utilisateur, de la manière suivant : </sc:para>
+								<sc:para xml:space="preserve">Le <sc:inlineStyle role="emp">sigle du cours</sc:inlineStyle> + le <sc:inlineStyle role="emp"><sc:inlineStyle role="emp">trimestre</sc:inlineStyle></sc:inlineStyle><sc:inlineStyle role="emp"> et l'année</sc:inlineStyle> +<sc:inlineStyle role="emp"> initiale</sc:inlineStyle> </sc:para>
+								<sc:para xml:space="preserve">Par exemple : pour l'élève portant le nom d'<sc:inlineStyle role="emp">Alain Stockless</sc:inlineStyle> de la cohorte <sc:inlineStyle role="emp">Automne 2016</sc:inlineStyle> :</sc:para>
+								<sc:para xml:space="preserve"><sc:inlineStyle role="emp">DDD9651A16AS</sc:inlineStyle></sc:para>
 							</op:txt>
 						</sp:txt>
 					</op:res>
-				</sp:meth>
+				</sp:warning>
+				<sp:info>
+					<op:pbTi/>
+					<op:res>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Créer et confirmer le : « mot de passe »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_creer_confirmer_mot_passe.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Inscrire votre : « date de naissance » (il n'est pas nécessaire d'inscrire votre vraie date de naissance)</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9652_blogue_date_naissance.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Sélectionner dans la liste déroulante votre : « Sexe ».</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_sexe.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Entrer dans le champ votre : « Numéro de téléphone mobile »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_numero_telephone_mobile.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Entrer dans le champ votre : « adresse e-mail actuelle »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_adresse_courriel_actuelle.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+					</op:res>
+				</sp:info>
+				<sp:warning>
+					<op:pbTi>
+						<sp:title>Quelle adresse courriel saisir ?</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Saisir votre adresse courriel UQÀM.</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Par exemple : prudhomme.steve@courrier.uqam.ca</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_exemple_adresse_email_actuelle.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+					</op:res>
+				</sp:warning>
 			</op:pb>
 		</sp:pb>
 	</op:expUc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<rsc:remoteInteractive xmlns:rsc="scenari.eu:remote" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<rsc:remoteInteractiveM xmlns:op="utc.fr:ics/opale3">
+			<sp:title>Google Blogger</sp:title>
+			<sp:info>
+				<op:infoBin>
+					<sp:cpyrgt>
+						<op:sPara>
+							<sc:para xml:space="preserve">Google</sc:para>
+						</op:sPara>
+					</sp:cpyrgt>
+				</op:infoBin>
+			</sp:info>
+			<sp:desc>
+				<op:sTxt>
+					<sc:para xml:space="preserve">Plateforme Blogue Google Blogger</sc:para>
+				</op:sTxt>
+			</sp:desc>
+			<sp:width>0</sp:width>
+		</rsc:remoteInteractiveM>
+		<sc:location>https://www.blogger.com/</sc:location>
+	</rsc:remoteInteractive>
+</sc:item>

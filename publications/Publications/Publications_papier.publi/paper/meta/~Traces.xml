@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<trace><start t="31/07/16 11:52:59"/><l t="Error" d="31/07/16 11:53:00"><message type="Error" thread="chain-executor-2" ts="1469980380869" desc="[transform] Echec à la transformation
+<trace><start t="01/08/16 21:03:07"/><l t="Error" d="01/08/16 21:03:16"><message type="Error" thread="chain-executor-1" ts="1470099796873" desc="[transform] Echec à la transformation
 [transform]  Src='C:\Users\Steve Prud'Homme\Dropbox\PROJETS\UQAM\DDD9651-Formation-a-l-enseignement-universitaire-D-marrage-du-blogue-r-flexif-sc-narisation\publications\Publications\Publications_papier.publi\paper\Publications_papier.odt'
 [transform]  Dst='C:\Users\Steve Prud'Homme\Dropbox\PROJETS\UQAM\DDD9651-Formation-a-l-enseignement-universitaire-D-marrage-du-blogue-r-flexif-sc-narisation\publications\Publications\Publications_papier.publi\paper\Publications_papier.odt'
 [transform]  params='transform=odtUpdate&amp;processings=keepEnumTitle:'
-[transform] java.lang.NullPointerException"/></l><l t="Warning" d="31/07/16 11:53:00"><message type="Warning" thread="chain-executor-2" ts="1469980380869" desc="Echec à la transformation
+[transform] java.lang.NullPointerException"/></l><l t="Warning" d="01/08/16 21:03:16"><message type="Warning" thread="chain-executor-1" ts="1470099796873" desc="Echec à la transformation
  Src='C:\Users\Steve Prud'Homme\Dropbox\PROJETS\UQAM\DDD9651-Formation-a-l-enseignement-universitaire-D-marrage-du-blogue-r-flexif-sc-narisation\publications\Publications\Publications_papier.publi\paper\Publications_papier.odt'
  Dst='C:\Users\Steve Prud'Homme\Dropbox\PROJETS\UQAM\DDD9651-Formation-a-l-enseignement-universitaire-D-marrage-du-blogue-r-flexif-sc-narisation\publications\Publications\Publications_papier.publi\paper\Publications_papier.odt'
- params='transform=odtUpdate&amp;processings=keepEnumTitle:'"><message type="Error" thread="chain-executor-2" ts="1469980380869" desc="Echec à la transformation d'une ressource (OpenDocument)."><message type="Error" thread="chain-executor-2" ts="1469980380868" desc="OpenDocument editor not found."><message type="Exception" thread="chain-executor-2" ts="1469980380868"><details>java.lang.NullPointerException
+ params='transform=odtUpdate&amp;processings=keepEnumTitle:'"><message type="Error" thread="chain-executor-1" ts="1470099796873" desc="Echec à la transformation d'une ressource (OpenDocument)."><message type="Error" thread="chain-executor-1" ts="1470099796873" desc="OpenDocument editor not found."><message type="Exception" thread="chain-executor-1" ts="1470099796873"><details>java.lang.NullPointerException
 	at java.io.File.&lt;init&gt;(Unknown Source)
 	at eu.scenari.transform.od.TfmOpenDocument.getOoClassLoader(TfmOpenDocument.java:347)
 	at eu.scenari.transform.od.TfmOpenDocument.xGetSubTransformer(TfmOpenDocument.java:189)
 	at eu.scenari.transform.od.TfmOpenDocument.transform(TfmOpenDocument.java:138)
 	at com.scenari.m.co.ant.TransformTask.execute(TransformTask.java:96)
 	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)
-	at sun.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
 	at java.lang.reflect.Method.invoke(Unknown Source)
 	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
@@ -29,4 +30,4 @@
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
-</details></message></message></message></message></l><end t="31/07/16 11:53:00"/></trace>
+</details></message></message></message></message></l><end t="01/08/16 21:03:17"/></trace>

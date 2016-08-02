@@ -11,12 +11,17 @@
 					<op:res>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">1. Ouvrir votre navigateur internet.</sc:para>
+								<sc:para xml:space="preserve">Pour créer votre compte Google Blogger vous devez.</sc:para>
 							</op:txt>
 						</sp:txt>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">2. </sc:para>
+								<sc:para xml:space="preserve">Ouvrir votre navigateur internet.</sc:para>
+								<sc:para xml:space="preserve">Dans la barre d'adresse, saisir l'adresse : « <sc:phrase role="url"><op:urlM><sp:url>https://www.blogger.com</sp:url><sp:title>Google Blogger</sp:title></op:urlM>https://www.blogger.com</sc:phrase> »</sc:para>
+								<sc:para xml:space="preserve">Cliquer sur le bouton : «Créez votre blogue»</sc:para>
+								<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_blogue_bouton_creez_votre_blog.png"/></sc:para>
+								<sc:para xml:space="preserve">Cliquer sur le lien hypertexte : « Créer un compte »</sc:para>
+								<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_blogue_lien_creer_compte.png"/></sc:para>
 							</op:txt>
 						</sp:txt>
 					</op:res>

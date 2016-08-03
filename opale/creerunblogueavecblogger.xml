@@ -25,6 +25,6 @@
 				</op:info>
 			</sp:info>
 		</op:uM>
-		<sp:courseUc sc:refUri="/crerunblogueavecbloggerprocedure.xml"/>
+		<sp:courseUc sc:refUri="/creer_compte_google.xml"/>
 	</op:courseUa>
 </sc:item>

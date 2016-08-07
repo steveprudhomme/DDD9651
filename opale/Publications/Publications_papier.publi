@@ -4,12 +4,13 @@
 		<op:odRootM>
 			<sp:coll>DDD9651</sp:coll>
 			<sp:version>0.0.1</sp:version>
-			<sp:date>201608021632</sp:date>
+			<sp:date>201608070015</sp:date>
 			<sp:auth>
 				<op:sTxt>
 					<sc:para xml:space="preserve">Steve Prud'Homme</sc:para>
 				</op:sTxt>
 			</sp:auth>
+			<sp:logo sc:refUri="/Ressources/DD9651_cover_laptop_mobile.jpg"/>
 			<sp:settings/>
 		</op:odRootM>
 		<sp:ue sc:refUri="/module_.xml"/>

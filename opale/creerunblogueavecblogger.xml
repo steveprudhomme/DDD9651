@@ -2,7 +2,7 @@
 <sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
 	<op:courseUa xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<op:uM>
-			<sp:title>Créer un blogue avec Google Blogger</sp:title>
+			<sp:title>Créer un blogue</sp:title>
 			<sp:sTitle>Blogger</sp:sTitle>
 			<sp:info>
 				<op:info>

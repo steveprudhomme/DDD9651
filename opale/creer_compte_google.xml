@@ -188,7 +188,7 @@
 						<sp:txtRes>
 							<op:txtRes>
 								<op:txtResM>
-									<sp:pos>lft</sp:pos>
+									<sp:pos>rgt</sp:pos>
 								</op:txtResM>
 								<sp:txt>
 									<op:txt>
@@ -201,7 +201,7 @@
 						<sp:txtRes>
 							<op:txtRes>
 								<op:txtResM>
-									<sp:pos>lft</sp:pos>
+									<sp:pos>rgt</sp:pos>
 								</op:txtResM>
 								<sp:txt>
 									<op:txt>
@@ -222,6 +222,253 @@
 									</op:txt>
 								</sp:txt>
 								<sp:img sc:refUri="/Ressources/DDD9651_bouton_etapes_suivantes.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Lire les : « Règles de confidentialité et conditions d'utilisation »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_regles_confidentialite.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur : « J'accepte » si vous acceptez les : « Règles de confidentialité et conditions d'utilisation »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_bouton_accepte.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Lire de mot de bienvenue de Google</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_mot_bienvenue.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>lft</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant sur la page de bienvenue sur Blogger. Vous devez maintenant confirmer votre profil.</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_page_bienvenue_blogger.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Créer un profil Google+ »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_creer_profil_google_plus.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>lft</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant sur la page : « Rejoignez Google + en créant votre profil</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_rejoignez_google_plus.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le lien hypertexte : « Ajouter votre photo »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9652_lien_hypertexte_ajouter_photo.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>lft</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant dans la fenêtre d'importation d'images de Google.</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_google_importation_image.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Séectionner une photo sur votre ordinateur »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_bouton_selectionner_photo_ordinateur.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Choisir votre photographie de profil</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_boite_dialogue_photo_profil.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Ouvrir » ou : « Open»</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_bouton_open.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Attendre pendant l'importation de votre image</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_barre_progression_importation_image_profil.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cadrer l'image à votre goût.</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_cadrage_image_profil.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le lien hypertexte : « Ajoutez une légende »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_lien_hypertexte_ajoutez_legende.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Remplir le champ : « Ajoutez une légende ». Entrer, par exemple : « Ma photo de profil ».</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_champ_ajouter_legende.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Définir comme photo de profil »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_bouton_definir_photo_profil.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">S'assurer que l'information présente sur la page : « Inscrivez-vous »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_page_inscrivez_vous.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Mettre à jour »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_bouton_mettre_jour.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>lft</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant sur la page de bienvenue de Google Blogger.</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_page_bienvenue_blogger.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 					</op:res>

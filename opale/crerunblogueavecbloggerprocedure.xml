@@ -70,8 +70,8 @@
 							<op:txt>
 								<sc:para xml:space="preserve">Inscrire le future nom d'utilisateur, de la manière suivant : </sc:para>
 								<sc:para xml:space="preserve">Le <sc:inlineStyle role="emp">sigle du cours</sc:inlineStyle> + le <sc:inlineStyle role="emp"><sc:inlineStyle role="emp">trimestre</sc:inlineStyle></sc:inlineStyle><sc:inlineStyle role="emp"> et l'année</sc:inlineStyle> +<sc:inlineStyle role="emp"> initiale</sc:inlineStyle> </sc:para>
-								<sc:para xml:space="preserve">Par exemple : pour l'élève portant le nom d'<sc:inlineStyle role="emp">Alain Stockless</sc:inlineStyle> de la cohorte <sc:inlineStyle role="emp">Automne 2016</sc:inlineStyle> :</sc:para>
-								<sc:para xml:space="preserve"><sc:inlineStyle role="emp">DDD9651A16AS</sc:inlineStyle></sc:para>
+								<sc:para xml:space="preserve">Par exemple : pour l'élève portant le nom de <sc:inlineStyle role="emp">William Tremblay</sc:inlineStyle> de la cohorte <sc:inlineStyle role="emp">Automne 2016</sc:inlineStyle> :</sc:para>
+								<sc:para xml:space="preserve"><sc:inlineStyle role="emp">DDD9651A16WT</sc:inlineStyle></sc:para>
 							</op:txt>
 						</sp:txt>
 					</op:res>

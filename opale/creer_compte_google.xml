@@ -471,6 +471,143 @@
 								<sp:img sc:refUri="/Ressources/DD9651_page_bienvenue_blogger.png"/>
 							</op:txtRes>
 						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Continuer vers Blogger »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_bouton_continuer_blogger.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>lft</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant sur la page : « Tableau de bord », de Google Blogger.</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_tableau_bord_blogger.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Nouveau blogue ».</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_bouton_nouveau_blogue.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant dans la boîte de dialogue : « Créer un blogue »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_boite_dialogue_creer_blogue.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Saisir le titre de votre blogue dans le champ : « Titre »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_champ_titre_exemple.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+					</op:res>
+				</sp:info>
+				<sp:warning>
+					<op:pbTi>
+						<sp:title>La saisie du futur nom de blogue</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Entrer le future nom de blogue, de la manière suivante : </sc:para>
+								<sc:para xml:space="preserve">Le <sc:inlineStyle role="emp">sigle du cours</sc:inlineStyle> + le <sc:inlineStyle role="emp"><sc:inlineStyle role="emp">trimestre</sc:inlineStyle></sc:inlineStyle><sc:inlineStyle role="emp"> et l'année</sc:inlineStyle> +<sc:inlineStyle role="emp"> initiale</sc:inlineStyle> </sc:para>
+								<sc:para xml:space="preserve">Par exemple : pour l'élève portant le nom de <sc:inlineStyle role="emp">William Tremblay</sc:inlineStyle> de la cohorte <sc:inlineStyle role="emp">Automne 2016</sc:inlineStyle> :</sc:para>
+								<sc:para xml:space="preserve"><sc:inlineStyle role="emp">DDD9651A16WT</sc:inlineStyle></sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:warning>
+				<sp:info>
+					<op:pbTi/>
+					<op:res>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vérifier que l'adresse générée contienne le même nom que celui que vous avez inscrit ET qu'il soit indiqué que : « Cette adresse de blogue est disponible »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_champ_adresse_exemple.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Sélectionner un thème graphique dans la liste déroulante : « Modèle »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_liste_deroulante_modele.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Créer un blogue! »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DD9651_bouton_creer_blogue.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>lft</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant sur la page de contrôle de votre nouveau blogue.</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_page_blogue.png"/>
+							</op:txtRes>
+						</sp:txtRes>
 					</op:res>
 				</sp:info>
 			</op:pb>

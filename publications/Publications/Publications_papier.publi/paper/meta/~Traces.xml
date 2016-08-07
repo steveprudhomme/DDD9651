@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<trace><start t="07/08/16 10:18:01"/><l t="Info" d="07/08/16 10:18:42"><message type="Info" thread="chain-executor-8" ts="1470579522607" desc="OpenDocument editor found by registry key in: C:\Program Files\LibreOffice 5\program"/></l><l t="Info" d="07/08/16 10:18:43"><message type="Info" thread="chain-executor-8" ts="1470579523289" desc="Starting OpenDocument editor in pipe mode."/></l><end t="07/08/16 10:19:47"/></trace>

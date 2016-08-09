@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:bib xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:bibM>
+			<sp:id>OQLF2009A</sp:id>
+			<sp:type>web</sp:type>
+			<sp:desc>
+				<op:bibTxt>
+					<sc:para xml:space="preserve"><sc:uLink role="url" url="http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=8370242"/> Office québécois de la langue française (2009). Le grand dictionnaire terminologique. Repéré à<sc:uLink role="url" url="http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=8370242">http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=8370242</sc:uLink></sc:para>
+				</op:bibTxt>
+			</sp:desc>
+		</op:bibM>
+	</op:bib>
+</sc:item>

@@ -37,6 +37,8 @@
 				</sp:txt>
 			</op:res>
 		</sp:intro>
-		<sp:courseUa sc:refUri="/creerunblogueavecblogger.xml"/>
+		<sp:courseUc sc:refUri="/le_blogue.xml"/>
+		<sp:courseUc sc:refUri="/le_blogue_reflexif.xml"/>
+		<sp:courseUc sc:refUri="/creer_compte_google.xml"/>
 	</op:ue>
 </sc:item>

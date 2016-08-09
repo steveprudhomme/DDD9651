@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:glos xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:glosM>
+			<sp:term>antéchronologique</sp:term>
+			<sp:def>
+				<op:sTxt>
+					<sc:para xml:space="preserve"> L'adjectif antéchronologique, en ce qui concerne le blogue, veut dire, selon l'Office québécois de la langue française (2009), que les textes du blogue sont classés par ordre chronologique inverse, c'est-à-dire que le plus récent texte publié apparaît toujours en premier, en haut de la page d'accueil.</sc:para>
+				</op:sTxt>
+			</sp:def>
+		</op:glosM>
+	</op:glos>
+</sc:item>

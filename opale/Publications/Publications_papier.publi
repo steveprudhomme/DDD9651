@@ -4,14 +4,18 @@
 		<op:odRootM>
 			<sp:coll>DDD9651</sp:coll>
 			<sp:version>0.0.1</sp:version>
-			<sp:date>201608071017</sp:date>
+			<sp:date>201608082058</sp:date>
 			<sp:auth>
 				<op:sTxt>
 					<sc:para xml:space="preserve">Steve Prud'Homme</sc:para>
 				</op:sTxt>
 			</sp:auth>
 			<sp:logo sc:refUri="/Ressources/DD9651_cover_laptop_mobile.jpg"/>
-			<sp:settings/>
+			<sp:typo>yes</sp:typo>
+			<sp:settings>
+				<sp:glos>yes</sp:glos>
+				<sp:bib>yes</sp:bib>
+			</sp:settings>
 		</op:odRootM>
 		<sp:ue sc:refUri="/module_.xml"/>
 	</op:odRoot>

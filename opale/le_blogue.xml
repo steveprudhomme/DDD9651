@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:expUc xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:uM>
+			<sp:title>Le blogue</sp:title>
+		</op:uM>
+		<sp:pb>
+			<op:pb>
+				<sp:def>
+					<op:pbTi>
+						<sp:title>Définition</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Selon l'<sc:uLink role="bib" sc:refUri="/Bibliographie/OQLF2009A.ref">Office québécois de la langue française (2009)</sc:uLink>, le blogue se définit ainsi :</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve"><sc:inlineStyle role="quote">Site Web personnel tenu par un ou plusieurs blogueurs qui s'expriment librement et selon une certaine périodicité, sous la forme de billets ou d'articles, informatifs ou intimistes, datés, à la manière d'un journal de bord, signés et classés par ordre <sc:uLink role="glos" sc:refUri="/Glossaire/antéchronologique.ref">antéchronologique</sc:uLink>, parfois enrichis d'hyperliens, d'images ou de sons, et pouvant faire l'objet de commentaires laissés par les lecteurs.</sc:inlineStyle> </sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:def>
+				<sp:rem>
+					<op:pbTi/>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Un blogue a la « forme » d'un journal personnel et non d'un journal au sens de « publication périodique consacrée à l'actualité », et son contenu n'est pas toujours celui que l'on trouve dans un journal personnel (propos sur sa vie privée).</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:rem>
+				<sp:info>
+					<op:pbTi>
+						<sp:title>Avantages d'un blogue</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Facilité de publication</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Grande liberté éditorialel, e contenu et la forme, très libres, restent à l'entière discrétion des auteurs</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Capacité d'interaction avec le lectorat</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:info>
+				<sp:info>
+					<op:pbTi>
+						<sp:title>Contenu d'un blogue</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Point de vue</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Billets (courts textes) </sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Articles (textes plus longs) </sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Des idées et des impressions sur une multitude de sujet</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:info>
+				<sp:info>
+					<op:pbTi>
+						<sp:title>Le contenu multimédia</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Dans un blogue on peut insérer divers contenu multimédia. Par exemple :</sc:para>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve"> Des hyperliens internes et externes, </sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Des images (photos et illustrations)</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Des sons</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">Des séquences vidéo, par exemple des séquences vidéo intégrées ou incrustées de Youtube</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:info>
+			</op:pb>
+		</sp:pb>
+	</op:expUc>
+</sc:item>

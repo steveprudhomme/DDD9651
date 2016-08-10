@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:bib xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:bibM>
+			<sp:id>WeshcM2007</sp:id>
+			<sp:type>web</sp:type>
+			<sp:desc>
+				<op:bibTxt>
+					<sc:para xml:space="preserve"><sc:textLeaf role="auth">Weshc, M.</sc:textLeaf>(<sc:textLeaf role="date">2007</sc:textLeaf>). <sc:textLeaf role="title">A Vision of Students Today</sc:textLeaf> [Séquence vidéo]. Repéré à <sc:uLink role="url" url="https://www.youtube.com/watch?v=dGCJ46vyR9o">https://www.youtube.com/watch?v=dGCJ46vyR9o</sc:uLink></sc:para>
+				</op:bibTxt>
+			</sp:desc>
+		</op:bibM>
+	</op:bib>
+</sc:item>

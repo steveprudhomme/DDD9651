@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:courseUa xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:uM>
+			<sp:title>Blogue de type journal de bord réflexif</sp:title>
+		</op:uM>
+		<sp:obj>
+			<op:sTxt>
+				<sc:para xml:space="preserve">Créer et alimenter régulièrement un journal de bord réflexif en ligne en utilisant la plateforme Google Blogger (au moins 5 billets / articles). </sc:para>
+				<sc:para xml:space="preserve">Cette plateforme de gestion de contenu  permet : </sc:para>
+				<sc:itemizedList>
+					<sc:listItem>
+						<sc:para xml:space="preserve">D'actualiser un apport essentiel des TIC, tant pour l'apprenant que pour l'enseignant. </sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">La verbalisation et l'explicitation des idées sous forme de textes, de sons et de séquence vidéo, </sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">La constitution de traces favorisant un retour réflexif sur les apprentissages </sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">L'interaction entre les apprenants (5 commentaires argumentés et appuyés)</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">La construction collective de ses connaissances.</sc:para>
+					</sc:listItem>
+				</sc:itemizedList>
+				<sc:para xml:space="preserve">Ces trois éléments permettent de constituer une valeur ajoutée importante de l'utilisation du numérique ou des TIC en éducation. </sc:para>
+				<sc:para xml:space="preserve"> Il s'agit d'un travail individuel réalisé en contexte collectif.</sc:para>
+			</op:sTxt>
+		</sp:obj>
+		<sp:intro>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:itemizedList>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Le lien du journal est à partager dans l'environnement numérique d'apprentissage (ENA) du cours.</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Ce blogue réflexif sera utilisé lors de tous les cours du programme pour la publication de billets réflexifs et pour les interactions entre les étudiants. </sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">C'est la responsabilité du participant de faire suivre son journal pour les autres cours du programme.</sc:para>
+							</sc:listItem>
+						</sc:itemizedList>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:intro>
+		<sp:practUc sc:refUri="/activite_apprentissage/exercices_redactionnels/blogue_pedagogieactive .xml"/>
+		<sp:practUc sc:refUri="/activite_apprentissage/exercices_redactionnels/blogue_pertinence_blogue.xml"/>
+		<sp:practUc sc:refUri="/activite_apprentissage/exercices_redactionnels/blogue_enjeux_defis_evaluation_ligne.xml"/>
+		<sp:practUc sc:refUri="/activite_apprentissage/exercices_redactionnels/analyser_perception_enseignement_universitaire.xml"/>
+	</op:courseUa>
+</sc:item>

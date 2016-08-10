@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<rsc:remoteVideo xmlns:op="utc.fr:ics/opale3" xmlns:rsc="scenari.eu:remote" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:animM>
+			<sp:title>A Vision of Students Today</sp:title>
+			<sp:info>
+				<op:infoBin>
+					<sp:cpyrgt>
+						<op:sPara>
+							<sc:para xml:space="preserve">Michael Wesch</sc:para>
+						</op:sPara>
+					</sp:cpyrgt>
+				</op:infoBin>
+			</sp:info>
+		</op:animM>
+		<sc:location>https://www.youtube.com/watch?v=dGCJ46vyR9o</sc:location>
+	</rsc:remoteVideo>
+</sc:item>

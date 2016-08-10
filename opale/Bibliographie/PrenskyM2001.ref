@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:bib xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:bibM>
+			<sp:id>PrenskyM2001</sp:id>
+			<sp:type>web</sp:type>
+			<sp:desc>
+				<op:bibTxt>
+					<sc:para xml:space="preserve"><sc:textLeaf role="auth">Prensky, M.</sc:textLeaf> (<sc:textLeaf role="date">2001</sc:textLeaf>). <sc:textLeaf role="title">Digital Natives, Digital Immigrants</sc:textLeaf> [PDF]. Repéré à <sc:uLink role="url" url="http://marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf">http://marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf</sc:uLink></sc:para>
+				</op:bibTxt>
+			</sp:desc>
+		</op:bibM>
+	</op:bib>
+</sc:item>

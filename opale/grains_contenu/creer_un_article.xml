@@ -2,7 +2,7 @@
 <sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
 	<op:expUc xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<op:uM>
-			<sp:title>Créer un billet de blogue</sp:title>
+			<sp:title>Créer un articule de Blogue</sp:title>
 		</op:uM>
 	</op:expUc>
 </sc:item>

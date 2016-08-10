@@ -28,17 +28,9 @@
 				<sc:para xml:space="preserve">Créer et à alimenter régulièrement un journal de bord réflexif en ligne en utilisant une plateforme de blogue.</sc:para>
 			</op:sTxt>
 		</sp:obj>
-		<sp:intro>
-			<op:res>
-				<sp:txt>
-					<op:txt>
-						<sc:para xml:space="preserve">Ce travail consiste à créer et à alimenter régulièrement un journal de bord réflexif en ligne en utilisant la plateforme « Blogger ». Ce cybercarnet (d'au moins 5 billets) permet d'actualiser un apport essentiel des TIC, tant pour les élèves que pour l'enseignant. La verbalisation des idées sous forme de textes, de capsules audio et vidéo, leur explication et la constitution de traces favorisant un retour réflexif sur les apprentissages constituent une valeur ajoutée importante de l'utilisation des TIC en éducation. Il permet aussi l'interaction entre les apprenants (5 commentaires argumentés et appuyés), donc une construction collective de ses connaissances. Il s'agit d'un travail individuel réalisé en contexte collectif.</sc:para>
-					</op:txt>
-				</sp:txt>
-			</op:res>
-		</sp:intro>
-		<sp:courseUc sc:refUri="/le_blogue.xml"/>
-		<sp:courseUc sc:refUri="/le_blogue_reflexif.xml"/>
-		<sp:courseUc sc:refUri="/creer_compte_google.xml"/>
+		<sp:courseUc sc:refUri="/grains_contenu/le_blogue.xml"/>
+		<sp:courseUc sc:refUri="/grains_contenu/le_blogue_reflexif.xml"/>
+		<sp:courseUc sc:refUri="/grains_contenu/creer_compte_google.xml"/>
+		<sp:courseUa sc:refUri="/activite_apprentissage/activiteapprentissage.xml"/>
 	</op:ue>
 </sc:item>

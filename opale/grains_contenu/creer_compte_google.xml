@@ -113,7 +113,7 @@
 										<sc:para xml:space="preserve">N.B. : il n'est pas nécessaire d'inscrire votre vraie date de naissance.</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DDD9652_blogue_date_naissance.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_blogue_date_naissance.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -247,7 +247,7 @@
 										<sc:para xml:space="preserve">Cliquer sur : « J'accepte » si vous acceptez les : « Règles de confidentialité et conditions d'utilisation »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_bouton_accepte.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_accepte.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -260,7 +260,7 @@
 										<sc:para xml:space="preserve">Lire de mot de bienvenue de Google</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_mot_bienvenue.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_mot_bienvenue.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -273,7 +273,7 @@
 										<sc:para xml:space="preserve">Vous êtes maintenant sur la page de bienvenue sur Blogger. Vous devez maintenant confirmer votre profil.</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_page_bienvenue_blogger.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_page_bienvenue_blogger.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -286,7 +286,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le bouton : « Créer un profil Google+ »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_creer_profil_google_plus.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_creer_profil_google_plus.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -299,7 +299,7 @@
 										<sc:para xml:space="preserve">Vous êtes maintenant sur la page : « Rejoignez Google + en créant votre profil</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_rejoignez_google_plus.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_rejoignez_google_plus.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -312,7 +312,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le lien hypertexte : « Ajouter votre photo »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DDD9652_lien_hypertexte_ajouter_photo.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_lien_hypertexte_ajouter_photo.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -325,7 +325,7 @@
 										<sc:para xml:space="preserve">Vous êtes maintenant dans la fenêtre d'importation d'images de Google.</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_google_importation_image.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_google_importation_image.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -338,7 +338,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le bouton : « Séectionner une photo sur votre ordinateur »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_bouton_selectionner_photo_ordinateur.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_selectionner_photo_ordinateur.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -351,7 +351,7 @@
 										<sc:para xml:space="preserve">Choisir votre photographie de profil</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_boite_dialogue_photo_profil.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_boite_dialogue_photo_profil.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -364,7 +364,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le bouton : « Ouvrir » ou : « Open»</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_bouton_open.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_open.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -377,7 +377,7 @@
 										<sc:para xml:space="preserve">Attendre pendant l'importation de votre image</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_barre_progression_importation_image_profil.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_barre_progression_importation_image_profil.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -390,7 +390,7 @@
 										<sc:para xml:space="preserve">Cadrer l'image à votre goût.</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_cadrage_image_profil.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_cadrage_image_profil.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -403,7 +403,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le lien hypertexte : « Ajoutez une légende »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_lien_hypertexte_ajoutez_legende.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_lien_hypertexte_ajoutez_legende.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -416,7 +416,7 @@
 										<sc:para xml:space="preserve">Remplir le champ : « Ajoutez une légende ». Entrer, par exemple : « Ma photo de profil ».</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_champ_ajouter_legende.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_champ_ajouter_legende.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -429,7 +429,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le bouton : « Définir comme photo de profil »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_bouton_definir_photo_profil.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_definir_photo_profil.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -442,7 +442,7 @@
 										<sc:para xml:space="preserve">S'assurer que l'information présente sur la page : « Inscrivez-vous »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_page_inscrivez_vous.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_page_inscrivez_vous.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -455,7 +455,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le bouton : « Mettre à jour »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_bouton_mettre_jour.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_mettre_jour.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -468,7 +468,7 @@
 										<sc:para xml:space="preserve">Vous êtes maintenant sur la page de bienvenue de Google Blogger.</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_page_bienvenue_blogger.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_page_bienvenue_blogger.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -481,7 +481,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le bouton : « Continuer vers Blogger »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_bouton_continuer_blogger.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_continuer_blogger.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -494,7 +494,7 @@
 										<sc:para xml:space="preserve">Vous êtes maintenant sur la page : « Tableau de bord », de Google Blogger.</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_tableau_bord_blogger.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_tableau_bord_blogger.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -507,7 +507,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le bouton : « Nouveau blogue ».</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_bouton_nouveau_blogue.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_nouveau_blogue.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -520,7 +520,7 @@
 										<sc:para xml:space="preserve">Vous êtes maintenant dans la boîte de dialogue : « Créer un blogue »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_boite_dialogue_creer_blogue.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_boite_dialogue_creer_blogue.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -533,7 +533,7 @@
 										<sc:para xml:space="preserve">Saisir le titre de votre blogue dans le champ : « Titre »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_champ_titre_exemple.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_champ_titre_exemple.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 					</op:res>
@@ -566,7 +566,7 @@
 										<sc:para xml:space="preserve">Vérifier que l'adresse générée contienne le même nom que celui que vous avez inscrit ET qu'il soit indiqué que : « Cette adresse de blogue est disponible »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_champ_adresse_exemple.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_champ_adresse_exemple.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -579,7 +579,7 @@
 										<sc:para xml:space="preserve">Sélectionner un thème graphique dans la liste déroulante : « Modèle »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_liste_deroulante_modele.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_liste_deroulante_modele.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>
@@ -592,7 +592,7 @@
 										<sc:para xml:space="preserve">Cliquer sur le bouton : « Créer un blogue! »</sc:para>
 									</op:txt>
 								</sp:txt>
-								<sp:img sc:refUri="/Ressources/DD9651_bouton_creer_blogue.png"/>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_creer_blogue.png"/>
 							</op:txtRes>
 						</sp:txtRes>
 						<sp:txtRes>

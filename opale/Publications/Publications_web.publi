@@ -3,13 +3,13 @@
 	<op:webRoot xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<op:webRootM>
 			<sp:version>0.0.1</sp:version>
-			<sp:date>20160808082032</sp:date>
+			<sp:date>20160808082122</sp:date>
 			<sp:auth>
 				<op:sTxt>
 					<sc:para xml:space="preserve">Steve Prud'Homme</sc:para>
 				</op:sTxt>
 			</sp:auth>
-			<sp:logo sc:refUri="/Ressources/DD9651_cover_laptop_mobile.jpg"/>
+			<sp:logo sc:refUri="/Ressources/DDD9651_cover_laptop_mobile.jpg"/>
 			<sp:settings>
 				<sp:glos>yes</sp:glos>
 				<sp:bib>yes</sp:bib>

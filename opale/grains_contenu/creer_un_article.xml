@@ -4,5 +4,94 @@
 		<op:uM>
 			<sp:title>Créer un articule de Blogue</sp:title>
 		</op:uM>
+		<sp:pb>
+			<op:pb>
+				<sp:info>
+					<op:pbTi/>
+					<op:res>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>lft</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant sur la page : « Aperçu » de votre blogue</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_page_blogue.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Cliquer sur le bouton : « Nouveau message »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_bouton_nouveau_message.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Vous êtes maintenant dans la page de rédaction de votre billet / article de blogue</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_page_message.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txtRes>
+							<op:txtRes>
+								<op:txtResM>
+									<sp:pos>rgt</sp:pos>
+								</op:txtResM>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve">Insérer votre titre dans le champ : «Titre »</sc:para>
+									</op:txt>
+								</sp:txt>
+								<sp:img sc:refUri="/Ressources/DDD9651_champ_titre_message.png"/>
+							</op:txtRes>
+						</sp:txtRes>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Rédigez votre texte en utilisant la barre de : « mise en forme » (voir la partie : « Barre de mise en forme »</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:res sc:refUri="/Ressources/DDD9651_barre_mise_forme_texte.png">
+							<op:resInfoM/>
+						</sp:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Paramétrer les options de votre billet ou article (voir la partie : « Paramètres du message »)</sc:para>
+								<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_palette_parametres_messages.png"/></sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:info>
+			</op:pb>
+		</sp:pb>
+		<sp:div>
+			<op:expUcDiv>
+				<op:expUcDivM>
+					<sp:title>Barre de mise en forme</sp:title>
+				</op:expUcDivM>
+			</op:expUcDiv>
+		</sp:div>
+		<sp:div>
+			<op:expUcDiv>
+				<op:expUcDivM>
+					<sp:title>Paramètres des messages</sp:title>
+				</op:expUcDivM>
+			</op:expUcDiv>
+		</sp:div>
 	</op:expUc>
 </sc:item>

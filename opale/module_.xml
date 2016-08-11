@@ -31,6 +31,7 @@
 		<sp:courseUc sc:refUri="/grains_contenu/le_blogue.xml"/>
 		<sp:courseUc sc:refUri="/grains_contenu/le_blogue_reflexif.xml"/>
 		<sp:courseUc sc:refUri="/grains_contenu/creer_compte_google.xml"/>
+		<sp:courseUc sc:refUri="/grains_contenu/creer_un_article.xml"/>
 		<sp:courseUa sc:refUri="/activite_apprentissage/activiteapprentissage.xml"/>
 	</op:ue>
 </sc:item>

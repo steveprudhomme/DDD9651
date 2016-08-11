@@ -84,6 +84,145 @@
 				<op:expUcDivM>
 					<sp:title>Barre de mise en forme</sp:title>
 				</op:expUcDivM>
+				<sp:div>
+					<op:expUcDiv>
+						<op:expUcDivM>
+							<sp:title>Aligner le texte</sp:title>
+						</op:expUcDivM>
+						<sp:pb>
+							<op:pb>
+								<sp:info>
+									<op:pbTi/>
+									<op:res>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">Vous pouvez aligner le texte en utilisant la fonction alignement.</sc:para>
+												<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_menu_allignement_texte.png"/></sc:para>
+											</op:txt>
+										</sp:txt>
+									</op:res>
+								</sp:info>
+							</op:pb>
+						</sp:pb>
+					</op:expUcDiv>
+				</sp:div>
+				<sp:div>
+					<op:expUcDiv>
+						<op:expUcDivM>
+							<sp:title>Insérer une séquence vidéo</sp:title>
+						</op:expUcDivM>
+						<sp:div>
+							<op:expUcDiv>
+								<op:expUcDivM>
+									<sp:title>Insérer une séquence vidéo à partir d'un fichier</sp:title>
+								</op:expUcDivM>
+								<sp:pb>
+									<op:pb>
+										<sp:info>
+											<op:pbTi/>
+											<op:res>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Cliquer sur le bouton : « ajouter une vidéo »</sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Vous êtes maintenant dans l'interface d'ajout d'une séquence vidéo.</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_interface_ajouter_video.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Cliquer sur le bouton : « Sélectionner une vidéo à téléverser»</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_bouton_selectionner_video_televerser.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Sélectionner la bonne séquence vidéo.</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_boite_dialogue_open.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Cliquer sur le bouton : «Ouvrir » ou « Open »</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_bouton_open.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+											</op:res>
+										</sp:info>
+									</op:pb>
+								</sp:pb>
+							</op:expUcDiv>
+						</sp:div>
+						<sp:div>
+							<op:expUcDiv>
+								<op:expUcDivM>
+									<sp:title>Insérer une séquence vidéo à partir de Youtube</sp:title>
+								</op:expUcDivM>
+								<sp:pb>
+									<op:pb>
+										<sp:info>
+											<op:pbTi/>
+											<op:res>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Cliquer sur le bouton : « ajouter une vidéo »</sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Vous êtes maintenant dans l'interface d'ajout d'une séquence vidéo.</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_interface_ajouter_video.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Cliquer sur l'onglet : « Youtube »</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_onglet_depuis_youtube.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Entrer ce que vous rechercher comme séquence vidéo dans le champ de recherche.</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_champ_recherche_youtube.png"/></sc:para>
+														<sc:para xml:space="preserve">Par exemple :</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_exemple_champ_recherche_youtube.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Cliquer sur le bouton en forme de loupe pour effectuer la recherche.</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_bouton_loupe_rechercher.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Une liste de résultats de recherche s'affiche.</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_exemple_resultats_recherche_youtube.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Sélectionner un résultat dans la liste de résultats de recherche</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_exemple_selection_resultat_recherche_youtube.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+												<sp:txt>
+													<op:txt>
+														<sc:para xml:space="preserve">Cliquer sur le bouton : « Sélectionner ».</sc:para>
+														<sc:para xml:space="preserve"><sc:inlineImg role="ico" sc:refUri="/Ressources/DDD9651_bouton_selectionner.png"/></sc:para>
+													</op:txt>
+												</sp:txt>
+											</op:res>
+										</sp:info>
+									</op:pb>
+								</sp:pb>
+							</op:expUcDiv>
+						</sp:div>
+					</op:expUcDiv>
+				</sp:div>
 			</op:expUcDiv>
 		</sp:div>
 		<sp:div>

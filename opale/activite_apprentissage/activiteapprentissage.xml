@@ -6,7 +6,18 @@
 		</op:uM>
 		<sp:obj>
 			<op:sTxt>
-				<sc:para xml:space="preserve">Créer et alimenter régulièrement un journal de bord réflexif en ligne en utilisant la plateforme Google Blogger (au moins 5 billets / articles). </sc:para>
+				<sc:para xml:space="preserve">Créer et alimenter régulièrement un journal de bord réflexif en ligne en utilisant la plateforme Google Blogger (au moins 5 billets / articles) :</sc:para>
+				<sc:itemizedList>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Le lien du journal est à partager dans l'environnement numérique d'apprentissage (ENA) du cours.</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Ce blogue réflexif sera utilisé lors de tous les cours du programme pour la publication de billets réflexifs et pour les interactions entre les étudiants. </sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">C'est la responsabilité du participant de faire suivre son journal pour les autres cours du programme.</sc:para>
+					</sc:listItem>
+				</sc:itemizedList>
 				<sc:para xml:space="preserve">Cette plateforme de gestion de contenu  permet : </sc:para>
 				<sc:itemizedList>
 					<sc:listItem>
@@ -29,25 +40,6 @@
 				<sc:para xml:space="preserve"> Il s'agit d'un travail individuel réalisé en contexte collectif.</sc:para>
 			</op:sTxt>
 		</sp:obj>
-		<sp:intro>
-			<op:res>
-				<sp:txt>
-					<op:txt>
-						<sc:itemizedList>
-							<sc:listItem>
-								<sc:para xml:space="preserve">Le lien du journal est à partager dans l'environnement numérique d'apprentissage (ENA) du cours.</sc:para>
-							</sc:listItem>
-							<sc:listItem>
-								<sc:para xml:space="preserve">Ce blogue réflexif sera utilisé lors de tous les cours du programme pour la publication de billets réflexifs et pour les interactions entre les étudiants. </sc:para>
-							</sc:listItem>
-							<sc:listItem>
-								<sc:para xml:space="preserve">C'est la responsabilité du participant de faire suivre son journal pour les autres cours du programme.</sc:para>
-							</sc:listItem>
-						</sc:itemizedList>
-					</op:txt>
-				</sp:txt>
-			</op:res>
-		</sp:intro>
 		<sp:practUc sc:refUri="/activite_apprentissage/exercices_redactionnels/blogue_pedagogieactive .xml"/>
 		<sp:practUc sc:refUri="/activite_apprentissage/exercices_redactionnels/blogue_pertinence_blogue.xml"/>
 		<sp:practUc sc:refUri="/activite_apprentissage/exercices_redactionnels/blogue_enjeux_defis_evaluation_ligne.xml"/>

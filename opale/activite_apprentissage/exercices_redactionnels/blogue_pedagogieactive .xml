@@ -2,7 +2,7 @@
 <sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
 	<op:practUc xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<op:exeM>
-			<sp:title>Billet de blogue réflexive sur la pédagogie active et son utilité dans le processus d'enseignement apprentissage</sp:title>
+			<sp:title>Billet de blogue réflexif 1</sp:title>
 		</op:exeM>
 		<sp:desc>
 			<op:sTitle>
@@ -12,24 +12,52 @@
 				<sp:txt>
 					<op:txt>
 						<sc:para xml:space="preserve">Lors de cette phase de l'activité sur le design pédagogique  vous avez été initié aux approches pédagogiques actives en présentiel et à distance en particulier en ce qui concerne les apports et limites des approches actives avec le numérique. </sc:para>
-						<sc:para xml:space="preserve">Vous devez rédiger un article ou un billet de blogue sur e qui caractérise une pédagogie active et sur son utilité dans le processus d'enseignement apprentissage.</sc:para>
-						<sc:para xml:space="preserve">Votre texte devra :</sc:para>
+						<sc:para xml:space="preserve">Vous devez rédiger un article ou un billet de blogue sur <sc:inlineStyle role="emp">ce qui caractérise une pédagogie active et sur son utilité dans le processus d'enseignement apprentissage</sc:inlineStyle>.</sc:para>
+					</op:txt>
+				</sp:txt>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Le billet / article de blogue devra respecté les critères suivants : </sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:desc>
+		<sp:desc>
+			<op:sTitle>
+				<sc:fullTitle>Critères généraux</sc:fullTitle>
+			</op:sTitle>
+			<op:res>
+				<sp:txt>
+					<op:txt>
 						<sc:itemizedList>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Porter sur des aspects reliés à la thématique des  : «la perception des étudiants sur l'enseignement universitaire».</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">Démontrer une pratique réflexive, une pensée critique articulée et nuancée sur la thématique des : «la perception des étudiants sur l'enseignement universitaire».</sc:para>
+							</sc:listItem>
 							<sc:listItem>
 								<sc:para xml:space="preserve">Être pertinent et profond.</sc:para>
 							</sc:listItem>
 							<sc:listItem>
-								<sc:para xml:space="preserve">Porter sur des aspects reliés à la thématique des  : «caractéristique d'une pédagogie active et sur son utilité dans le processus d'enseignement apprentissage».</sc:para>
-							</sc:listItem>
-							<sc:listItem>
-								<sc:para xml:space="preserve">Démontrer une pratique réflexive, une pensée critique articulée et nuancée sur la thématique des : «caractéristique d'une pédagogie active et sur son utilité dans le processus d'enseignement apprentissage».</sc:para>
-							</sc:listItem>
-							<sc:listItem>
-								<sc:para xml:space="preserve">Présenter des références et des liens pour appuyer les idées</sc:para>
+								<sc:para xml:space="preserve">Être originale.</sc:para>
 							</sc:listItem>
 							<sc:listItem>
 								<sc:para xml:space="preserve">Respecter les droits d'auteur.</sc:para>
 							</sc:listItem>
+						</sc:itemizedList>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:desc>
+		<sp:desc>
+			<op:sTitle>
+				<sc:fullTitle>Critères de rédaction</sc:fullTitle>
+			</op:sTitle>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:itemizedList>
 							<sc:listItem>
 								<sc:para xml:space="preserve">Être mit en page efficacement et s'adapter au format WEB</sc:para>
 							</sc:listItem>
@@ -37,16 +65,29 @@
 								<sc:para xml:space="preserve">Être lisible</sc:para>
 							</sc:listItem>
 							<sc:listItem>
-								<sc:para xml:space="preserve">Être unique, c'est à dire : un thème = un billet</sc:para>
+								<sc:para xml:space="preserve">Présenter des références et des liens pour appuyer les idées</sc:para>
 							</sc:listItem>
 							<sc:listItem>
 								<sc:para xml:space="preserve">Être d'une longueur raisonnable</sc:para>
 							</sc:listItem>
+						</sc:itemizedList>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:desc>
+		<sp:desc>
+			<op:sTitle>
+				<sc:fullTitle>Critère techniques</sc:fullTitle>
+			</op:sTitle>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:itemizedList>
 							<sc:listItem>
-								<sc:para xml:space="preserve">Disposer d'une navigation facile</sc:para>
+								<sc:para xml:space="preserve">Être unique, c'est à dire : un thème = un billet</sc:para>
 							</sc:listItem>
 							<sc:listItem>
-								<sc:para xml:space="preserve">Être originale</sc:para>
+								<sc:para xml:space="preserve">Disposer d'une navigation facile</sc:para>
 							</sc:listItem>
 							<sc:listItem>
 								<sc:para xml:space="preserve">Présenter du contenu multimédia, c'est-à-dire, des images, séquences vidéo et liens hypertextes pertinents.</sc:para>

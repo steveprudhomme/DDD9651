@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ue xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<op:ueM>
+			<sp:title>Démarche pour créer un blogue</sp:title>
+			<sp:sTitle>Démarche pour créer un blogue</sp:sTitle>
+			<sp:info>
+				<op:info>
+					<sp:keywds>
+						<op:keywds>
+							<sp:keywd>Blogue</sp:keywd>
+							<sp:keywd>Réflexif</sp:keywd>
+							<sp:keywd>Journal de bord</sp:keywd>
+							<sp:keywd>Démarche</sp:keywd>
+							<sp:keywd>Création</sp:keywd>
+						</op:keywds>
+					</sp:keywds>
+					<sp:cc>by-nc-sa</sp:cc>
+					<sp:ccVersion>4.0</sp:ccVersion>
+					<sp:cpyrgt>
+						<op:sPara>
+							<sc:para xml:space="preserve">Steve Prud'Homme</sc:para>
+						</op:sPara>
+					</sp:cpyrgt>
+				</op:info>
+			</sp:info>
+		</op:ueM>
+		<sp:obj>
+			<op:sTxt>
+				<sc:para xml:space="preserve">Créer et à alimenter régulièrement un journal de bord réflexif en ligne en utilisant une plateforme de blogue.</sc:para>
+			</op:sTxt>
+		</sp:obj>
+		<sp:courseUc sc:refUri="/grains_contenu/le_blogue.xml"/>
+		<sp:courseUc sc:refUri="/grains_contenu/le_blogue_reflexif.xml"/>
+		<sp:courseUc sc:refUri="/grains_contenu/creer_compte_google.xml"/>
+		<sp:courseUc sc:refUri="/grains_contenu/creer_un_article.xml"/>
+	</op:ue>
+</sc:item>

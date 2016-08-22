@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<trace><start t="21/08/16 20:23:23"/><l t="Info" d="21/08/16 20:23:50"><message type="Info" thread="chain-executor-3" ts="1471825430102" desc="OpenDocument editor found by env. var. 'PATH' in: /usr/lib/libreoffice/program"/></l><l t="Info" d="21/08/16 20:23:50"><message type="Info" thread="chain-executor-3" ts="1471825430895" desc="Starting OpenDocument editor in pipe mode."/></l><end t="21/08/16 20:25:01"/></trace>

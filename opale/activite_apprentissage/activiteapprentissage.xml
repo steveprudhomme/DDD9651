@@ -2,11 +2,11 @@
 <sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
 	<op:courseUa xmlns:op="utc.fr:ics/opale3" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<op:uM>
-			<sp:title>Blogue de type journal de bord réflexif</sp:title>
+			<sp:title>Activité d'apprentissage : créer et alimenter blogue de type journal de bord réflexif</sp:title>
 		</op:uM>
 		<sp:obj>
 			<op:sTxt>
-				<sc:para xml:space="preserve">Créer et alimenter régulièrement un journal de bord réflexif en ligne en utilisant la plateforme Google Blogger (au moins 5 billets / articles) :</sc:para>
+				<sc:para xml:space="preserve">Créer et alimenter régulièrement un journal de bord réflexif en ligne en utilisant la plateforme Google Blogger <sc:inlineStyle role="emp">(<sc:inlineStyle role="emp">au moins 7 billets / articles)</sc:inlineStyle> </sc:inlineStyle>:</sc:para>
 				<sc:itemizedList>
 					<sc:listItem>
 						<sc:para xml:space="preserve">Le lien du journal est à partager dans l'environnement numérique d'apprentissage (ENA) du cours.</sc:para>
